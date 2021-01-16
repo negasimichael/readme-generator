@@ -39,7 +39,7 @@ const questions = [
     //contribution
     {type: 'input',
      name: 'contribution',
-     message: 'Who is/are the contributors of this projects?(Required)',
+     message: 'Who is the contributor of this project?(Required)',
     },
 
     //linkden
