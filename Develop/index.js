@@ -39,13 +39,13 @@ const questions = [
     //contribution
     {type: 'input',
      name: 'contribution',
-     message: 'Provide guidelines how to contribute to this Project.  (Required)',
+     message: 'Who is/are the contributors of this projects?(Required)',
     },
 
     //linkden
     {type: 'input',
      name: 'linkdin',
-     message: 'What is LinkdIn profile.  (Optional)',
+     message: 'What is LinkdIn profile.(Optional)',
     },
 
     //GitHub
