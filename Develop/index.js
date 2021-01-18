@@ -32,17 +32,6 @@ const questions = [
         name: 'usage',
         message: 'Provide brief directions for use and include gifs and/or screenshots as needed. (Required)',
     },
-    {
-        type: 'input',
-        name: 'imageName',
-        message: 'Screenshot image name',
-    },
-
-    {
-        type: 'input',
-        name: 'imagePath',
-        message: 'Screenshot image path (eg. images/myImage.png)',
-    },
 
     {
         type: 'input',

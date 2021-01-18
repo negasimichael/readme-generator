@@ -29,12 +29,12 @@
 
 
   ## Contribution
-  [negasimichael](https://github.com/negasimichael) is the only contrubuter of this project .
+  [negasimichael](https://github.com/negasimichael/readme-generator) is the only contrubuter of this project .
 
    ## Developer Contact Information
   * Linkedin Profile:[negasimichael](https://www.linkedin.com/feed/)
   * URL : N/A
-  * Github URL[negasimichael](https://github.com/negasimichael/readme-generator)
+  * Github URL:[negasimichael](https://github.com/negasimichael/readme-generator)
   * Email: negasimichael1@gmail.com
 
    ## License
