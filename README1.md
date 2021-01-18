@@ -29,7 +29,7 @@
 
 
   ## Contribution
-   This is contributed by Negasi Michael.
+  negasimichael is the only contrubuter of this project .
 
    ## Developer Contact Information
     * Linkedin Profile:negasimichael
