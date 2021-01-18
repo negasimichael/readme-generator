@@ -1,6 +1,6 @@
 # readme-generator
 ## License
-  ### This application is licensed under [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
+  [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
 
    ## Description
    
@@ -11,7 +11,7 @@
    
    * [Contribution](#Contribution)
    
-   * [Developers Contact Information](#Developers-Contact-Information)
+   * [Developer Contact Information](#Developer-Contact-Information)
      
   * [License](#license)
 
@@ -22,7 +22,12 @@
     "npm i or npm install".
 
   ![readme](imagescreen)
-     [![readme](imagescreen)](url.png)
+
+  [![readme](imagescreen1)](url.png)
+
+  [![readme](imagescreen2)](url.png)
+
+  [![dme](imagescreen3)](url.png)
 
 
   ## Contribution
