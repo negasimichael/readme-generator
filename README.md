@@ -7,7 +7,7 @@
    
    * [Usage Instructions](#usage-instructions)
    
-   * [Contribution](#Contribution)
+   * [Contribution](#negasimichael)
    
    * [Developer Contact Information](#Developer-Contact-Information)
      
