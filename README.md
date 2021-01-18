@@ -7,7 +7,7 @@
    
    * [Usage Instructions](#usage-instructions)
    
-   * [Contribution](#https://github.com/negasimichael)
+   * [Contribution](#contribution)
    
    * [Developer Contact Information](#Developer-Contact-Information)
      
