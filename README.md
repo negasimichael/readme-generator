@@ -1,6 +1,4 @@
 # readme-generator
-## License
-  [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
 
    ## Description
    
@@ -38,5 +36,8 @@
     * URL : N/A
     * Github URL:https://github.com/negasimichael/readme-generator
     * Email: negasimichael1@gmail.com
-   
+
+   ## License
+   [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
+
   

@@ -1,6 +1,4 @@
 # Readme Generator
-## License
-   [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
 
    ## Description
    
@@ -34,5 +32,9 @@
  * URL : url of the project
 * Github URL:N/A
 * Email: contact email
+
+## License
+   [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
+
    
   
