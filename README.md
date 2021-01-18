@@ -25,9 +25,9 @@
    
 
    ## Developers Contact Information
-    * Linkedin Profile:negasimichael1@gmail.com
+    * Linkedin Profile:negasimichael
     * URL : N/A
-    * Github URL:negasimichael
+    * Github URL:https://github.com/negasimichael/readme-generator
     * Email: negasimichael1@gmail.com
    
   
