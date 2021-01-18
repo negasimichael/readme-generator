@@ -23,9 +23,9 @@
 
   [![readme](imagescreen1)](url.png)
 
-  [![readme](imagescreen2)](url.png)
+  
 
-  [![readme](imagescreen3)](url.png)
+  
 
 
   ## Contribution
