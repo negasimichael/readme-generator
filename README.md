@@ -7,7 +7,7 @@
    
    * [Usage Instructions](#usage-instructions)
    
-   * [Contribution](#negasimichael)
+   * [Contribution](#https://github.com/negasimichael)
    
    * [Developer Contact Information](#Developer-Contact-Information)
      
@@ -29,13 +29,13 @@
 
 
   ## Contribution
-  negasimichael is the only contrubuter of this project .
+  https://github.com/negasimichael is the only contrubuter of this project .
 
    ## Developer Contact Information
-    * Linkedin Profile:negasimichael
-    * URL : N/A
-    * Github URL:https://github.com/negasimichael/readme-generator
-    * Email: negasimichael1@gmail.com
+  * Linkedin Profile:[negasimichael](https://www.linkedin.com/feed/)
+  * URL : N/A
+  * Github URL[negasimichael](:https://github.com/negasimichael/readme-generator)
+  * Email: negasimichael1@gmail.com
 
    ## License
    [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
