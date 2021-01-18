@@ -1,6 +1,6 @@
 # Readme Generator
 ## License
-  ### This application is licensed under [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
+   [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
 
    ## Description
    
@@ -18,15 +18,20 @@
    ## Installation Instructions
    
    ## Usage Instructions
+   For  this application to run make sure first intall the node_moduale by
+    "npm i or npm install".
+
    
    ![readme](imagescreen)
+
   [![readme](imagescreen)](url.png)
-   ## Contributiion
+
+   ## Contribution
    This is where you add contribution guide.
    
-   ## Developers Contact Information
+   ## Developer Contact Information
  * Linkedin Profile:linkden link optional
- * URL : url to the project
+ * URL : url of the project
 * Github URL:N/A
 * Email: contact email
    
