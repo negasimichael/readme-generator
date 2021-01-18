@@ -34,7 +34,7 @@
    ## Developer Contact Information
   * Linkedin Profile:[negasimichael](https://www.linkedin.com/feed/)
   * URL : N/A
-  * Github URL[negasimichael](:https://github.com/negasimichael/readme-generator)
+  * Github URL[negasimichael](https://github.com/negasimichael/readme-generator)
   * Email: negasimichael1@gmail.com
 
    ## License
