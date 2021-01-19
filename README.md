@@ -19,15 +19,9 @@
    For  this application to run make sure first intall the node_moduale by
     "npm i or npm install".
 
-  ![readme](imagescreen)
-
-  [![readme](imagescreen1)](url.png)
+  [![readme-generator](./Develop/utils/R1.png)](https://drive.google.com/file/d/1K6bXZaN1qq4avKgwp_sL_hT2jDhX2G0h/view?usp=sharing)
 
   
-
-  
-
-
   ## Contribution
   [negasimichael](https://github.com/negasimichael/readme-generator) is the only contrubuter of this project .
 
