@@ -20,8 +20,7 @@
     "npm i or npm install".
 
 
-
-  [![readme](imagescreen)](url.png)
+[![readme-generator](./utils/R1.png)](https://drive.google.com/file/d/1K6bXZaN1qq4avKgwp_sL_hT2jDhX2G0h/view?usp=sharing)
 
    ## Contribution
    This is where you add contribution guide.
