@@ -19,8 +19,7 @@
    For  this application to run make sure first intall the node_moduale by
     "npm i or npm install".
 
-   
-   ![readme](imagescreen)
+
 
   [![readme](imagescreen)](url.png)
 
