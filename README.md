@@ -17,11 +17,16 @@
    The developer is authorizing a free installation by cloning from the code [negasimichael](https://github.com/negasimichael/readme-generator)
 
    ## Usage Instructions
-  i. Copy the code from the code [Negasimichael]/(https://github.com/negasimichael/readme-generator) and clone it in your in your comand line.
+  i. Copy the code from the code [negasimichael](https://github.com/negasimichael/readme-generator) and clone it in your in your comand line.
+
   ii. Make sure node and npm is installed in your computer.
+
 iii. Once in the directory run npm install to install the node_modules needed to run the app.
+
 iv. Run node index.js
+
 v .You will be prompted with questions.
+
 vi. A "README.md Successfull Generated!!" will be desplayed after answering all the questions.
 
 Click the demo image to see video demonstration:
